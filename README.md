@@ -1,42 +1,60 @@
-# Hi, I'm Madhav 👋 
 
-### Computer Science @ IIIT Kottayam | 2026 Grad
-**Backend & Systems Engineer** with a focus on high-performance distributed systems and open-source contribution.
+# 
+```text
+  __  __           _ _                      __  __                      _ _ 
+ |  \/  |         | | |                    |  \/  |                    | (_)
+ | \  / | __ _  __| | |__   __ ___   __    | \  / | _   _ _ __ __ _  | |_ 
+ | |\/| |/ _` |/ _` | '_ \ / _` \ \ / /    | |\/| || | | | '__/ _` | | | |
+ | |  | | (_| | (_| | | | | (_| |\ V /     | |  | || |_| | | | (_| | | | |
+ |_|  |_|\__,_|\__,_|_| |_|\__,_| \_/      |_|  |_| \__,_|_|  \__,_| |_|_|
+                                                                          
+  > Systems & Backend Engineer | Distributed Systems Enthusiast
+
+```
+
+### 🛰️ Connectivity & Status
+
+`[ Location: Kerala, India ]`  `[ Status: Open to Remote ]`  `[ Grad: 2026 ]`
 
 ---
 
-### 🛠️ Core Stack
-| Category | Tech |
-| :--- | :--- |
-| **Languages** | `Go` `Python` `C++` `Typescript` |
-| **Systems/Backend** | `Distributed Systems` `gRPC` `Post-Quantum Crypto` |
-| **Tools** | `Docker` `Git` `Kubernetes` `Linux` |
+### 🛠️ Technical Inventory
+
+**Systems & Backend**
+`Go` `C++` `Python` `Typescript` `gRPC` `Distributed Systems` `Microservices`
+
+**Research & Cryptography**
+`Post-Quantum Crypto` `Quantum ML` `Sentiment Analysis` `NLP`
+
+**Infrastructure & Cloud**
+`Docker` `Kubernetes` `Linux/eBPF` `Git` `Prometheus` `Jaeger` `etcd`
 
 ---
 
-### 🧪 Research & Experience
+### 🧪 Professional Log
+
 * **Research Intern @ Hewlett Packard Enterprise**
-    * Focused on **Post-Quantum Cryptography** and secure systems.
-* **NAACL Publication**
-    * Co-authored research on *Dravidian Language Sentiment Analysis*.
-* **Honors Project**
-    * Currently exploring **Quantum Machine Learning** for Image Processing.
+   * Deep dive into **Post-Quantum Cryptography** and secure protocol implementation.
+
+
+* **Open Source Contributor**
+   * **etcd:** Enhancing the distributed key-value store powering Kubernetes.
+   * **Jaeger:** Learning about cloud-native observability and tracing.
+
+
+* **NAACL Published Researcher**
+   * Co-authored research on *Dravidian Language Sentiment Analysis*.
+
+
 
 ---
 
-### 📦 Open Source Contributions
-I am an active contributor to cloud-native and distributed infrastructure (etcd, jaeger..).
+### 📁 Ongoing Research
+
+> **Honors Project:** Exploring the intersection of **Quantum Machine Learning** and Image Processing to optimize high-dimensional data analysis.
 
 ---
 
-### 📈 Technical Metrics
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhav-murali&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-murali&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9" />
-</p>
+### 📫 Initializing Connection...
 
----
-
-### 📫 Connect
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/mdhv-mrli)
-* **Focus:** Open to remote backend or systems engineering roles.
+* **LinkedIn:** [/in/mdhv-mrli](https://linkedin.com/in/mdhv-mrli)
