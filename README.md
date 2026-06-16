@@ -14,7 +14,7 @@
 
 ### 🛰️ Connectivity & Status
 
-`[ Location: Kerala, India ]`  `[ Status: Open to Remote ]`  `[ Grad: 2026 ]`
+`[ Location: Kerala, India ]`  `[ Status: Open to Work ]`  `[ Grad: 2026 ]`
 
 ---
 
